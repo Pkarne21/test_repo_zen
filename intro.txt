@@ -1,0 +1,5 @@
+Name:Pooja Rajendra Karne
+Age:22
+Degree :BE(Computer Engineer)
+Location :Pune 
+Company:Zensar Technologies 
